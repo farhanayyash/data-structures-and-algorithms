@@ -1,5 +1,9 @@
 # Class 5
-<a href="https://github.com/farhanayyash/data-structures-and-algorithms/tree/main/Data-Structures/Linkedlist">Linked List</a>
+[Linked List](https://github.com/farhanayyash/data-structures-and-algorithms/tree/main/Data-Structures/Linkedlist)
+
+# Class 2
+[ArrayReverse](https://github.com/farhanayyash/data-structures-and-algorithms/tree/main/challenges/ArrayShift)
+
 
 # Class 1
-<a href="https://github.com/farhanayyash/data-structures-and-algorithms/tree/main/challenges/ArrayReverse">ArrayReverse</a>
+[ArrayReverse](https://github.com/farhanayyash/data-structures-and-algorithms/tree/main/challenges/ArrayReverse)
